@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+<testng-results ignored="0" total="34" passed="34" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-20T22:57:02 IST" name="Suite" finished-at="2025-09-20T22:57:41 IST" duration-ms="39356">
+  <suite started-at="2025-09-26T12:11:01 IST" name="Suite" finished-at="2025-09-26T12:11:42 IST" duration-ms="41559">
     <groups>
     </groups>
-    <test started-at="2025-09-20T22:57:02 IST" name="EdgeTest" finished-at="2025-09-20T22:57:34 IST" duration-ms="31802">
+    <test started-at="2025-09-26T12:11:01 IST" name="EdgeTest" finished-at="2025-09-26T12:11:30 IST" duration-ms="29559">
       <class name="testcases.TestCase4">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@1a5a4e19]" started-at="2025-09-20T22:57:24 IST" name="Login" finished-at="2025-09-20T22:57:25 IST" duration-ms="749" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@5b94b04d]" started-at="2025-09-26T12:11:20 IST" name="Login" finished-at="2025-09-26T12:11:21 IST" duration-ms="680" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase4 -->
       <class name="testcases.TestCase3">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@4ee203eb]" started-at="2025-09-20T22:57:22 IST" name="Login" finished-at="2025-09-20T22:57:24 IST" duration-ms="1447" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@385e9564]" started-at="2025-09-26T12:11:19 IST" name="Login" finished-at="2025-09-26T12:11:20 IST" duration-ms="1162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase3 -->
       <class name="testcases.TestCase6">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@60db1c0e]" started-at="2025-09-20T22:57:27 IST" name="Login" finished-at="2025-09-20T22:57:28 IST" duration-ms="694" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@4c39bec8]" started-at="2025-09-26T12:11:23 IST" name="Login" finished-at="2025-09-26T12:11:23 IST" duration-ms="725" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase6 -->
       <class name="testcases.TestCase5">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@7068e664]" started-at="2025-09-20T22:57:25 IST" name="Login" finished-at="2025-09-20T22:57:26 IST" duration-ms="1040" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@8c3b9d]" started-at="2025-09-26T12:11:21 IST" name="Login" finished-at="2025-09-26T12:11:22 IST" duration-ms="661" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase5 -->
       <class name="testcases.TestCase2">
-        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@461ad730]" started-at="2025-09-20T22:57:19 IST" name="loginApp" finished-at="2025-09-20T22:57:22 IST" duration-ms="3464" status="PASS">
+        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@291caca8]" started-at="2025-09-26T12:11:15 IST" name="loginApp" finished-at="2025-09-26T12:11:19 IST" duration-ms="3567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
       </class> <!-- testcases.TestCase2 -->
       <class name="testcases.TestCase1">
-        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.TestCase1@5c86dbc5]" started-at="2025-09-20T22:57:02 IST" name="onTestStart" finished-at="2025-09-20T22:57:15 IST" duration-ms="12521" status="PASS">
+        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.TestCase1@399c4be1]" started-at="2025-09-26T12:11:01 IST" name="onTestStart" finished-at="2025-09-26T12:11:13 IST" duration-ms="11570" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@5f0fd5a0]]>
+                <![CDATA[org.testng.TestRunner@3246fb96]]>
               </value>
             </param>
             <param index="1">
@@ -53,77 +53,77 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onTestStart -->
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@5c86dbc5]" started-at="2025-09-20T22:57:15 IST" name="Login" finished-at="2025-09-20T22:57:18 IST" duration-ms="2840" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@399c4be1]" started-at="2025-09-26T12:11:13 IST" name="Login" finished-at="2025-09-26T12:11:15 IST" duration-ms="1863" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestCase1@5c86dbc5]" started-at="2025-09-20T22:57:34 IST" name="tearDown" finished-at="2025-09-20T22:57:34 IST" duration-ms="142" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestCase1@399c4be1]" started-at="2025-09-26T12:11:30 IST" name="tearDown" finished-at="2025-09-26T12:11:30 IST" duration-ms="197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testcases.TestCase1 -->
       <class name="testcases.TestCase10">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@7975d1d8]" started-at="2025-09-20T22:57:32 IST" name="Login" finished-at="2025-09-20T22:57:33 IST" duration-ms="809" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@1e178745]" started-at="2025-09-26T12:11:29 IST" name="Login" finished-at="2025-09-26T12:11:29 IST" duration-ms="756" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase10 -->
       <class name="testcases.TestCase8">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@769a1df5]" started-at="2025-09-20T22:57:30 IST" name="Login" finished-at="2025-09-20T22:57:30 IST" duration-ms="972" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@7ee8290b]" started-at="2025-09-26T12:11:25 IST" name="Login" finished-at="2025-09-26T12:11:26 IST" duration-ms="1005" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase8 -->
       <class name="testcases.TestCase7">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@3e78b6a5]" started-at="2025-09-20T22:57:28 IST" name="Login" finished-at="2025-09-20T22:57:29 IST" duration-ms="865" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@f79e]" started-at="2025-09-26T12:11:24 IST" name="Login" finished-at="2025-09-26T12:11:25 IST" duration-ms="996" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase7 -->
       <class name="testcases.TestCase9">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@41f69e84]" started-at="2025-09-20T22:57:31 IST" name="Login" finished-at="2025-09-20T22:57:32 IST" duration-ms="1070" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@1f59a598]" started-at="2025-09-26T12:11:27 IST" name="Login" finished-at="2025-09-26T12:11:28 IST" duration-ms="783" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase9 -->
     </test> <!-- EdgeTest -->
-    <test started-at="2025-09-20T22:57:02 IST" name="FirefoxTest" finished-at="2025-09-20T22:57:39 IST" duration-ms="37230">
+    <test started-at="2025-09-26T12:11:01 IST" name="FirefoxTest" finished-at="2025-09-26T12:11:36 IST" duration-ms="35604">
       <class name="testcases.TestCase4">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@17503f6b]" started-at="2025-09-20T22:57:29 IST" name="Login" finished-at="2025-09-20T22:57:30 IST" duration-ms="648" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@5aebe890]" started-at="2025-09-26T12:11:25 IST" name="Login" finished-at="2025-09-26T12:11:26 IST" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase4 -->
       <class name="testcases.TestCase3">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@2235eaab]" started-at="2025-09-20T22:57:27 IST" name="Login" finished-at="2025-09-20T22:57:29 IST" duration-ms="1451" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@4961f6af]" started-at="2025-09-26T12:11:24 IST" name="Login" finished-at="2025-09-26T12:11:24 IST" duration-ms="736" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase3 -->
       <class name="testcases.TestCase6">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@3b6d844d]" started-at="2025-09-20T22:57:32 IST" name="Login" finished-at="2025-09-20T22:57:33 IST" duration-ms="744" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@33c911a1]" started-at="2025-09-26T12:11:29 IST" name="Login" finished-at="2025-09-26T12:11:29 IST" duration-ms="616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase6 -->
       <class name="testcases.TestCase5">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@3bcd05cb]" started-at="2025-09-20T22:57:31 IST" name="Login" finished-at="2025-09-20T22:57:31 IST" duration-ms="611" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@65d09a04]" started-at="2025-09-26T12:11:27 IST" name="Login" finished-at="2025-09-26T12:11:28 IST" duration-ms="1449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase5 -->
       <class name="testcases.TestCase2">
-        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@13526e59]" started-at="2025-09-20T22:57:23 IST" name="loginApp" finished-at="2025-09-20T22:57:27 IST" duration-ms="3511" status="PASS">
+        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@394df057]" started-at="2025-09-26T12:11:20 IST" name="loginApp" finished-at="2025-09-26T12:11:23 IST" duration-ms="3364" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
       </class> <!-- testcases.TestCase2 -->
       <class name="testcases.TestCase1">
-        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.TestCase1@503f91c3]" started-at="2025-09-20T22:57:02 IST" name="onTestStart" finished-at="2025-09-20T22:57:21 IST" duration-ms="18873" status="PASS">
+        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.TestCase1@71e9ddb4]" started-at="2025-09-26T12:11:01 IST" name="onTestStart" finished-at="2025-09-26T12:11:17 IST" duration-ms="16013" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@723e88f9]]>
+                <![CDATA[org.testng.TestRunner@77eca502]]>
               </value>
             </param>
             <param index="1">
@@ -135,53 +135,95 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onTestStart -->
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@503f91c3]" started-at="2025-09-20T22:57:21 IST" name="Login" finished-at="2025-09-20T22:57:23 IST" duration-ms="1253" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@71e9ddb4]" started-at="2025-09-26T12:11:17 IST" name="Login" finished-at="2025-09-26T12:11:19 IST" duration-ms="2113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestCase1@503f91c3]" started-at="2025-09-20T22:57:38 IST" name="tearDown" finished-at="2025-09-20T22:57:39 IST" duration-ms="1403" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TestCase1@71e9ddb4]" started-at="2025-09-26T12:11:34 IST" name="tearDown" finished-at="2025-09-26T12:11:36 IST" duration-ms="2050" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testcases.TestCase1 -->
       <class name="testcases.TestCase10">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@24959ca4]" started-at="2025-09-20T22:57:37 IST" name="Login" finished-at="2025-09-20T22:57:37 IST" duration-ms="577" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@6a2f6f80]" started-at="2025-09-26T12:11:33 IST" name="Login" finished-at="2025-09-26T12:11:34 IST" duration-ms="608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase10 -->
       <class name="testcases.TestCase8">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@20bd8be5]" started-at="2025-09-20T22:57:34 IST" name="Login" finished-at="2025-09-20T22:57:35 IST" duration-ms="615" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@707194ba]" started-at="2025-09-26T12:11:31 IST" name="Login" finished-at="2025-09-26T12:11:32 IST" duration-ms="533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase8 -->
       <class name="testcases.TestCase7">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@36804139]" started-at="2025-09-20T22:57:33 IST" name="Login" finished-at="2025-09-20T22:57:34 IST" duration-ms="748" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@75db5df9]" started-at="2025-09-26T12:11:30 IST" name="Login" finished-at="2025-09-26T12:11:31 IST" duration-ms="617" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase7 -->
       <class name="testcases.TestCase9">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@730d2164]" started-at="2025-09-20T22:57:36 IST" name="Login" finished-at="2025-09-20T22:57:36 IST" duration-ms="627" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@1190200a]" started-at="2025-09-26T12:11:32 IST" name="Login" finished-at="2025-09-26T12:11:33 IST" duration-ms="587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase9 -->
     </test> <!-- FirefoxTest -->
-    <test started-at="2025-09-20T22:57:02 IST" name="ChromeTest" finished-at="2025-09-20T22:57:41 IST" duration-ms="39356">
+    <test started-at="2025-09-26T12:11:01 IST" name="ChromeTest" finished-at="2025-09-26T12:11:42 IST" duration-ms="41559">
       <class name="testcases.TestCase4">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@4f0f2942]" started-at="2025-09-20T22:57:33 IST" name="Login" finished-at="2025-09-20T22:57:34 IST" duration-ms="1550" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase4@15de0b3c]" started-at="2025-09-26T12:11:34 IST" name="Login" finished-at="2025-09-26T12:11:35 IST" duration-ms="792" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase4 -->
-      <class name="testcases.HireSenseLogin">
-        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.HireSenseLogin@5db6b9cd]" started-at="2025-09-20T22:57:02 IST" name="onTestStart" finished-at="2025-09-20T22:57:15 IST" duration-ms="12275" status="PASS">
+      <class name="testcases.TestCase3">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@1a677343]" started-at="2025-09-26T12:11:32 IST" name="Login" finished-at="2025-09-26T12:11:34 IST" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase3 -->
+      <class name="testcases.TestCase6">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@3857f613]" started-at="2025-09-26T12:11:37 IST" name="Login" finished-at="2025-09-26T12:11:37 IST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase6 -->
+      <class name="testcases.TestCase5">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@489115ef]" started-at="2025-09-26T12:11:35 IST" name="Login" finished-at="2025-09-26T12:11:36 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase5 -->
+      <class name="testcases.TestCase2">
+        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@6ed3ccb2]" started-at="2025-09-26T12:11:29 IST" name="loginApp" finished-at="2025-09-26T12:11:32 IST" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+      </class> <!-- testcases.TestCase2 -->
+      <class name="testcases.TestCase1">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@74e52ef6]" started-at="2025-09-26T12:11:26 IST" name="Login" finished-at="2025-09-26T12:11:28 IST" duration-ms="2188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase1 -->
+      <class name="testcases.TestCase10">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@3bf7ca37]" started-at="2025-09-26T12:11:41 IST" name="Login" finished-at="2025-09-26T12:11:42 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase10 -->
+      <class name="testcases.TestCase8">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@7c6908d7]" started-at="2025-09-26T12:11:39 IST" name="Login" finished-at="2025-09-26T12:11:40 IST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.TestCase8 -->
+      <class name="testcases.HireSenseTests">
+        <test-method is-config="true" signature="onTestStart(org.testng.ITestContext,java.lang.String)[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:01 IST" name="onTestStart" finished-at="2025-09-26T12:11:12 IST" duration-ms="11281" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@4f4c4b1a]]>
+                <![CDATA[org.testng.TestRunner@7690781]]>
               </value>
             </param>
             <param index="1">
@@ -193,65 +235,35 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- onTestStart -->
-        <test-method signature="HireSenseLogIn()[pri:0, instance:testcases.HireSenseLogin@5db6b9cd]" started-at="2025-09-20T22:57:15 IST" name="HireSenseLogIn" finished-at="2025-09-20T22:57:24 IST" duration-ms="9425" status="PASS">
+        <test-method signature="HireSenseResumeUpload()[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:13 IST" name="HireSenseResumeUpload" finished-at="2025-09-26T12:11:22 IST" duration-ms="9178" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HireSenseLogIn -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.HireSenseLogin@5db6b9cd]" started-at="2025-09-20T22:57:41 IST" name="tearDown" finished-at="2025-09-20T22:57:41 IST" duration-ms="133" status="PASS">
+        </test-method> <!-- HireSenseResumeUpload -->
+        <test-method signature="LogInVerification()[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:22 IST" name="LogInVerification" finished-at="2025-09-26T12:11:22 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInVerification -->
+        <test-method signature="UploadFileValidation()[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:22 IST" name="UploadFileValidation" finished-at="2025-09-26T12:11:24 IST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadFileValidation -->
+        <test-method signature="resumeUploadUsingPasteOption()[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:24 IST" name="resumeUploadUsingPasteOption" finished-at="2025-09-26T12:11:26 IST" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resumeUploadUsingPasteOption -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.HireSenseTests@3b0090a4]" started-at="2025-09-26T12:11:42 IST" name="tearDown" finished-at="2025-09-26T12:11:42 IST" duration-ms="127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testcases.HireSenseLogin -->
-      <class name="testcases.TestCase3">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase3@446a1e84]" started-at="2025-09-20T22:57:31 IST" name="Login" finished-at="2025-09-20T22:57:32 IST" duration-ms="1078" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase3 -->
-      <class name="testcases.TestCase6">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase6@5340477f]" started-at="2025-09-20T22:57:36 IST" name="Login" finished-at="2025-09-20T22:57:37 IST" duration-ms="781" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase6 -->
-      <class name="testcases.TestCase5">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase5@2657d4dd]" started-at="2025-09-20T22:57:35 IST" name="Login" finished-at="2025-09-20T22:57:35 IST" duration-ms="748" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase5 -->
-      <class name="testcases.TestCase2">
-        <test-method signature="loginApp()[pri:0, instance:testcases.TestCase2@58e1d9d]" started-at="2025-09-20T22:57:27 IST" name="loginApp" finished-at="2025-09-20T22:57:30 IST" duration-ms="3362" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginApp -->
-      </class> <!-- testcases.TestCase2 -->
-      <class name="testcases.TestCase1">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase1@29d80d2b]" started-at="2025-09-20T22:57:24 IST" name="Login" finished-at="2025-09-20T22:57:26 IST" duration-ms="1085" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase1 -->
-      <class name="testcases.TestCase10">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase10@387a8303]" started-at="2025-09-20T22:57:40 IST" name="Login" finished-at="2025-09-20T22:57:41 IST" duration-ms="578" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase10 -->
-      <class name="testcases.TestCase8">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase8@7139992f]" started-at="2025-09-20T22:57:38 IST" name="Login" finished-at="2025-09-20T22:57:39 IST" duration-ms="705" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- testcases.TestCase8 -->
+      </class> <!-- testcases.HireSenseTests -->
       <class name="testcases.TestCase7">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@47caedad]" started-at="2025-09-20T22:57:37 IST" name="Login" finished-at="2025-09-20T22:57:38 IST" duration-ms="737" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase7@198b6731]" started-at="2025-09-26T12:11:38 IST" name="Login" finished-at="2025-09-26T12:11:38 IST" duration-ms="638" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
       </class> <!-- testcases.TestCase7 -->
       <class name="testcases.TestCase9">
-        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@69504ae9]" started-at="2025-09-20T22:57:39 IST" name="Login" finished-at="2025-09-20T22:57:40 IST" duration-ms="627" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testcases.TestCase9@3c9754d8]" started-at="2025-09-26T12:11:40 IST" name="Login" finished-at="2025-09-26T12:11:41 IST" duration-ms="657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->

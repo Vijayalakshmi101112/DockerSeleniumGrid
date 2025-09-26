@@ -1,0 +1,83 @@
+S Giridharan
+Manual testing, Functional testing Mobile: +91 8939290256
+Email:ndharan43@gmail.com
+
+CAREER OBJECTIVE
+To be involved in a job in which I can make use of my skills with creativity and teamwork that effectively leads to the growth of the organization.
+
+PROFESSIONAL SUMMARY
+
+●	Engineering Professional having about 5 years and 6 months of Experience in Manual Testing and Automation Testing.
+●	Strong experience in Fire TV vendor web portal payment domain and Smart TV’s (Fire OS) domains.
+●	Performed Build Acceptance Testing, Sanity, System, Functionality, Regression and Re-Test, Adhoc, User Acceptance, UI, OK2Ship, Web Application testing, Black box testing, API testing.
+●	Expertise in developing Test Cases based on Requirements, ability to quickly adapt to a new environment.
+●	Strong Experience in Testcase management tool (Test rail).
+●	Good Experience in Bug Reporting/Tracking management tool (Jira).
+●	Have good knowledge in Simple Issue Manger tool for ticket tracking.
+●	Sounds knowledge of quality assurance procedures SDLC and STLC.
+●	Processed the Customer Reviews for Smart TV’s Projects to act against the negative reviews by filing issues based on the reviews and make the issue to resolve.
+●	Coordinate with developers to build and implement technology solutions.
+●	Well versed with Test Documentation (Test Scenario, Test Case, Test Data, Defect Report).
+●	Communicate with customers to understand their requirements and preparing questionnaire to meet customer requirements
+
+WORK EXPERIENCE
+
+●	Currently working as an Automation analyst in Amazon Development Center Pvt. Ltd., Chennai from Jan 2020 to till date.
+
+PROJECT HANDLED
+1.	Project Title 1: Fire TV vendor bounty management portal
+Domain: Vendor Payment
+Organization: Amazon Development Center Pvt. Ltd., Chennai. Client: Fire TV Hardware partners from various country marketplace Application Environment: Web application
+Testing Method: Manual Testing
+Role: Associate Quality Service
+Project Description:
+Fire TV vendor bounty management portal is the application which helps Amazon Fire TV sales team to paying the amount directly to the hardware vendors whenever the respective device selling in offline and online marketplace. From that the amount will be credited to the respective vendor cost center for each device sales by entering the unit details in the portal by the real time sales team. This portal configured with the multiple country currency conversion values and the tax values for the US region, EU region etc.
+ 
+Responsibilities:
+●	Involved in Test scenarios & Test cases preparation.
+●	Follow the test plan created by lead and analyzing the requirement on the testing
+●	Worked on various types of testing (ex: Build Acceptance, Sanity, Regression, Adhoc testing etc.,)
+●	Performing the validation and deep dive in defect identification.
+●	Filing issue in Simple Issue Manager and coordinate with the development team in order to fix the issue.
+●	Performing retest and regression testing based on the bug fixes.
+●	Maintain complete documentations for all project related activities and present Deliverables to the customers.
+●	Preparing test reports, status and defect analyzing in various stages of testing.
+●	Prepared KT session for new joiners in the team.
+
+2.	Project Title 2: Smart TVs for India Market (Fire OS)
+Domain: Fire TV OS & Device testing
+Organization: Amazon Development Center Pvt. Ltd., Chennai. Client: Amazon Fire TV (Amazon Basics, Onida, Croma) etc., Application Environment: Fire OS testing, Amazon Devices testing Testing Method: Manual Testing
+Role: Associate Quality Service
+Project Description:
+Amazon Fire TV OS is the software product partnering with the various TV hardware vendor to deliver a integrated Amazon Fire TV devices in online and offline marketplaces in all over India.
+
+Responsibilities:
+●	Involved in Test scenarios & Test cases preparation for various milestone launches.
+●	Worked on various types of testing (ex: Build Acceptance, Sanity, Regression, Retest, Adhoc, Beta testing, etc.,). And prepared reports for all these testing.
+●	Functional testing, floor support, multiple team coordination to perform the end-to-end validation.
+●	Deep dive in finding bugs then reporting & tracking in Jira tool.
+●	Participated daily Scrum meetings, Bug review/triage meetings.
+●	Processed the Customer Reviews for Smart TV’s Projects to act against the negative reviews by filing issues based on the reviews and make the issue to resolve.
+
+TECHNICAL SKILLS
+Methodology	: Agile
+Cloud platform	: AWS
+Bug Tracking Tool	: JIRA and Simple Issue Manager
+Test management tool	: Test trail, Quip
+Domain Knowledge	: Vendor payment, Fire OS, Amazon devices.
+MS-Office	: Word, Excel, Power point, Microsoft Outlook
+Operating System	: Windows
+
+ACHIEVEMENTS
+●	Awarded” Star of the month” for the highest productivity and quality
+ 
+EDUCATIONAL QUALIFICATION
+●	Bachelor of Computer application (BCA) from Hindustan College (Affiliated to Anna University, Chennai), Chennai, Tamilnadu in 2017.
+●	Master of Information technology (Msc.IT) from Madras university Chennai in 2020
+
+DECLARATION:
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+Place:
+Date:	           (S Giridharan)

@@ -109,11 +109,7 @@ import com.relevantcodes.extentreports.LogStatus;
 	    		driver().findElement(By.id("email")).sendKeys("cbts-ta@cbts.com");
 	    		driver().findElement(By.id("password")).sendKeys("hiresense");
 	    		driver().findElement(By.xpath("//button[contains(text(),'Sign In')]")).click();
-	    		String title = driver().getTitle();
-	    		System.out.println(title);
-	    		test.log(LogStatus.PASS, "HireSense logged in successfully"+test.addScreenCapture(getScreenShot()));
-	    		System.out.println("HireSense logged in successfully");
-
+				
 	        } catch (Exception e) {
 	            e.printStackTrace();
 	        }
@@ -217,5 +213,3 @@ import com.relevantcodes.extentreports.LogStatus;
 		 
 	    
 	}
-
-
