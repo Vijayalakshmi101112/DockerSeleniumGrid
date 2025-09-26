@@ -128,7 +128,7 @@ public class HireSenseTests extends DockerListener{
 	}
 	
 	@Test(enabled = true)
-	public void resumeUploadUsingPasteOption() throws IOException
+	public void ResumeUploadUsingPasteOption() throws IOException
 	{
 
 		try
